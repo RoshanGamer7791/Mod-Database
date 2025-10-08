@@ -61,7 +61,11 @@
     "description": "Shows you alot of information about whats going on in your world",
     "author": "Fusion Space Industries",
     "version": "1.6" 
+  },
+  "Hyperwarp.dll": {
+    "name": "Hyperwarp",
+    "description": "Lets you go up to 1000x Physics Timewarp",
+    "author": "Starsubject",
+    "version": "1.0"
   }
-
 }
-
