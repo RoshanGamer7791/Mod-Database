@@ -55,5 +55,11 @@
     "description": "Adds Smart SAS that is able to lock onto Prograde, Retrograde, Surface and Target Nodes",
     "author": "AstroTheRabbit",
     "version": "1.7"
+  },
+  "InfoOverload.dll": {
+    "name": "Info Overload",
+    "description": "Shows you alot of information about whats going on in your world",
+    "author": "Fusion Space Industries",
+    "version": "1.6" 
   }
 }
