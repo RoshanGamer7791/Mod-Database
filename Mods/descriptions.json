@@ -22,5 +22,32 @@
     "description": "Shows you the trajectory you will have in an atmosphere",
     "author": "AstroTheRabbit",
     "version": "1.4"
+  },
+  "PartEditor.dll": {
+    "name": "Part Editor",
+    "description": "It is bp editing in game",
+    "author": "Cucumber Space",
+    "version": "1.0"
+  },
+  "ThrustAssistMod.dll": {
+    "name": "Thrust Assist",
+    "description": "It helps you land and land at a target",
+    "author": "Darthan",
+    "version": "0.7"
+  },
+  "ActionGroupsMod.dll": {
+    "name": "Action Groups Mod",
+    "description": "Adds KSP like Action Groups to SFS",
+    "author": "AstroTheRabbit",
+    "version": "1.3",
+    "dependencies": [
+      "CustomSaveData.dll"
+    ]
+  },
+  "CustomSaveData.dll": {
+    "name": "Custom Save Data",
+    "description": "A Mod that allows for the saving and loading of custom modded data to rockets and blueprints",
+    "author": "AstroTheRabbit",
+    "version": "1.0"
   }
 }
