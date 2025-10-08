@@ -49,5 +49,11 @@
     "description": "A Mod that allows for the saving and loading of custom modded data to rockets and blueprints",
     "author": "AstroTheRabbit",
     "version": "1.0"
+  },
+  "SmartSASMod.dll": {
+    "name": "Smart SAS",
+    "description": "Adds Smart SAS that is able to lock onto Prograde, Retrograde, Surface and Target Nodes",
+    "author": "AstroTheRabbit",
+    "version": "1.7"
   }
 }
