@@ -37,5 +37,19 @@
     "author": "jsudo",
     "description": "Adds the stock engines with dynamic plumes",
     "dependencies":[]
+  },
+  "Kursed Engines.pack": {
+    "name": "Kursed Engines",
+    "version": "1.0",
+    "author": "AarohanTheAscender",
+    "description": "A bunch of kursed engines",
+    "dependencies":[]
+  },
+  "Explorer's Ultimate Pack.pack": {
+    "name": "Explorer's Ultimate Pack",
+    "version": "0.5.1-Alpha",
+    "author": "QMSP",
+    "description": "It is the explorers ultimate pack, which includes grid fins, electricty system (not compatible with N204 Electricty pack) and multipe engines and a drouge chute",
+    "dependencies":[]
   }
 }
