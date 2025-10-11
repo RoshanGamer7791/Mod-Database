@@ -60,7 +60,7 @@
     "name": "Info Overload",
     "description": "Shows you alot of information about whats going on in your world",
     "author": "Fusion Space Industries",
-    "version": "1.6" 
+    "version": "1.6"
   },
   "Hyperwarp.dll": {
     "name": "Hyperwarp",
@@ -73,5 +73,12 @@
     "description": "Adds a random small chance of an engine failing to ignite, or having an in-flight failure.",
     "author": "TheAlgorithm476",
     "version": "1.0.0"
+  },
+  "ColoredOrbits.dll": {
+    "name": "Colored Orbits",
+    "version": "1.0",
+    "author": "Alair",
+    "description": "Makes the orbits colored so you could see them better",
+    "dependencies": []
   }
 }
