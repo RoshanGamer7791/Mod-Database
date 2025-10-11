@@ -77,8 +77,15 @@
   "ColoredOrbits.dll": {
     "name": "Colored Orbits",
     "version": "1.0",
-    "author": "Alair",
+    "author": "Altiar",
     "description": "Makes the orbits colored so you could see them better",
+    "dependencies": []
+  },
+  "DeltaV_Calculator.dll": {
+    "name": "Delta V Calculator",
+    "version": "1.0",
+    "author": "Altiar",
+    "description": "Shows your ingame Delta V",
     "dependencies": []
   }
 }
