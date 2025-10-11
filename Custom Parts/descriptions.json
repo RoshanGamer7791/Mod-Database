@@ -65,6 +65,12 @@
     "author": "FPE Fan",
     "description": "Adds a powerful engine",
     "dependencies": []
+  },
+  "KrazyThief.s.FalconModPack.0.3.4.5.ALPHA.pack": {
+    "name": "KrazyThief20543's Falcon 9 and Heavy Mod",
+    "version": "0.3.4.5 Alpha",
+    "author": "KrazyThief20543",
+    "description": "Adds falcon 9 and falcon heavy parts",
+    "dependencies": []
   }
 }
-
