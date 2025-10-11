@@ -79,5 +79,12 @@
     "author": "SenchQ",
     "description": "It adds the electron rocket parts",
     "dependencies": []
+  },
+  "Stopgap Engines.pack": {
+    "name": "Stopgap Engines",
+    "version": "1.0",
+    "author": "J3 Mângo",
+    "description": "They fill in the gaps for the engines in the game",
+    "dependencies": []
   }
 }
