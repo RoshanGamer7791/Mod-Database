@@ -67,5 +67,11 @@
     "description": "Lets you go up to 1000x Physics Timewarp",
     "author": "Starsubject",
     "version": "1.0"
+  },
+  "RandomFailuresLegacy.dll": {
+    "name": "Random Failures Legacy",
+    "description": "Adds a random small chance of an engine failing to ignite, or having an in-flight failure.",
+    "author": "TheAlgorithm476",
+    "version": "1.0.0"
   }
 }
