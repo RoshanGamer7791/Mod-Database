@@ -108,5 +108,12 @@
     "author": "SFSGamer-bili",
     "description": "Adds water to SFS",
     "dependencies": []
+  },
+  "RichPresenceSFS.dll": {
+    "name": "Discord Rich Presence",
+    "version": "1.1",
+    "author": "N204",
+    "description": "Adds Discord rich presence to SFS",
+    "dependencies": []
   }
 }
