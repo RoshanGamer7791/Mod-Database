@@ -109,5 +109,14 @@
     "author": "Juan Angel B747",
     "description": "Adds inflatable heat shields",
     "dependencies": []
+  },
+  "KFS_1.1.0.1_Along_for_the_ride.pack": {
+    "name": "Kerbal Flight Simulator",
+    "version": "1.1.0.1",
+    "author": "Mac33299",
+    "description": "Adds KSP Parts into SFS",
+    "dependencies": [
+      "Electricity.pack"
+    ]
   }
 }
