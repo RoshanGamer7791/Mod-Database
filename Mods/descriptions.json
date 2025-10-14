@@ -118,7 +118,7 @@
   },
   "ALPACA.dll": {
     "name": "ALPACA - Mod Installer",
-    "version": "1.0",
+    "version": "1.1.0",
     "author": "Starsubject",
     "description": "It is a in-game mod installer for SFSMI",
     "dependencies": []
