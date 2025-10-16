@@ -160,5 +160,11 @@
     "version": "1.0.2",
     "author": "leroxy2_0",
     "description": "Adds Gemini Program Parts"
+  },
+  "lasers.pack": {
+    "name": "Lasers Mod",
+    "version": "1.0.0",
+    "author": "Wurnace",
+    "description": "Adds Lasers and Nukes to SFS"
   }
 }
