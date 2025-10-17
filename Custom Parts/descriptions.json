@@ -73,9 +73,9 @@
     "description": "A bunch of kursed engines",
     "dependencies": []
   },
-  "Explorer's Ultimate Pack.pack": {
+  "Explorer's Ultimate Pack v0.6.pack": {
     "name": "Explorer's Ultimate Pack",
-    "version": "0.5.1-Alpha",
+    "version": "0.6",
     "author": "QMSP",
     "description": "It is the explorers ultimate pack, which includes grid fins, electricty system (not compatible with N204 Electricty pack) and multipe engines and a drouge chute",
     "dependencies": []
