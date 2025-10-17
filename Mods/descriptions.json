@@ -122,5 +122,35 @@
     "author": "Starsubject",
     "description": "It is a in-game mod installer for SFSMI",
     "dependencies": []
+  },
+  "BlueprintImage.dll": {
+    "name": "Blueprint Image",
+    "version": "1.1",
+    "author": "SFSGamer-bili",
+    "description": "Allows you to export blueprints as images"
+  },
+  "Translation.dll": {
+    "name": "Translation Mod",
+    "version": "1.0.1",
+    "author": "SFSGamer-bili",
+    "description": "Allows you to use translations in SFS PC"
+  },
+  "BurnEditor.dll": {
+    "name": "Burn Editor",
+    "version": "1.0.3",
+    "author": "SFSGamer-bili",
+    "description": "Adds real time burn editing in SFS"
+  },
+  "SFSControl.dll": {
+    "name": "SFS APIs",
+    "version": "1.2",
+    "author": "SFSGamer-bili",
+    "description": "This mod adds an API to Spaceflight Simulator (SFS) that can be called by external scripts or programs."
+  },
+  "Enhanced.settings.dll": {
+    "name": "Enchanced Settings",
+    "version": "1.0.0",
+    "author": "SFSGamer-bili",
+    "description": "A simple mod that extends SFS's settings"
   }
 }
