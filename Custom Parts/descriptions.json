@@ -8,6 +8,13 @@
       "Electricity.pack"
     ]
   },
+  "KrazyThiefFalconModAlphaV0.5.1.2.pack": {
+    "name": "Krazy Thief's Falcon 9 Pack",
+    "version": "0.5.1.2",
+    "author": "KrazyThief20543",
+    "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions",
+    "dependencies": []
+  },
   "Electricity.pack": {
     "name": "Electricity Part Pack",
     "version": "0.5",
@@ -168,3 +175,4 @@
     "description": "Adds Lasers and Nukes to SFS"
   }
 }
+
