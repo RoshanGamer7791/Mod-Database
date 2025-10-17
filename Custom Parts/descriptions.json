@@ -10,7 +10,7 @@
   },
   "KrazyThiefFalconModAlphaV0.5.1.2.pack": {
     "name": "Krazy Thief's Falcon 9 Pack",
-    "version": "0.5.1.2",
+    "version": "0.5.1.2 Alpha",
     "author": "KrazyThief20543",
     "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions",
     "dependencies": []
@@ -94,13 +94,6 @@
     "description": "Adds a powerful engine",
     "dependencies": []
   },
-  "KrazyThiefsFalconModPack0.3.4.5ALPHA.pack": {
-    "name": "KrazyThief20543's Falcon 9 and Heavy Mod",
-    "version": "0.3.4.5 Alpha",
-    "author": "KrazyThief20543",
-    "description": "Adds falcon 9 and falcon heavy parts",
-    "dependencies": []
-  },
   "Electron-Pack-1.1.pack": {
     "name": "Electron Pack",
     "version": "1.1",
@@ -175,4 +168,5 @@
     "description": "Adds Lasers and Nukes to SFS"
   }
 }
+
 
