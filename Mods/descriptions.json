@@ -152,5 +152,11 @@
     "version": "1.0.0",
     "author": "SFSGamer-bili",
     "description": "A simple mod that extends SFS's settings"
+  },
+  "GlidingHeatShields.dll": {
+    "name": "Gliding Heat Shielts",
+    "version": "1.4",
+    "author": "Altiar",
+    "description": "Gives heat shields some lift capability"
   }
 }
