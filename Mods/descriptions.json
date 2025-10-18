@@ -1,0 +1,162 @@
+{
+  "VanillaUpgrades.dll": {
+    "name": "Vanilla Upgrades",
+    "description": "Improves the vanilla expierience by adding quality of life features",
+    "author": "NeptuneSky",
+    "version": "5.3"
+  },
+  "ANAIS.dll": {
+    "name": "ANAIS",
+    "description": "Replaces the stock navigation system with a more elaborated one",
+    "author": "Altiar",
+    "version": "1.4.2"
+  },
+  "Texturable.dll": {
+    "name": "Textureable",
+    "description": "Makes more parts texturable like parachutes, docking ports and all of that",
+    "author": "NeptuneSky",
+    "version": "0.2.1-beta"
+  },
+  "AeroTrajectory.dll": {
+    "name": "Aero Trajectory",
+    "description": "Shows you the trajectory you will have in an atmosphere",
+    "author": "AstroTheRabbit",
+    "version": "1.4"
+  },
+  "PartEditor.dll": {
+    "name": "Part Editor",
+    "description": "It is bp editing in game",
+    "author": "Cucumber Space",
+    "version": "1.0"
+  },
+  "ThrustAssistMod.dll": {
+    "name": "Thrust Assist",
+    "description": "It helps you land and land at a target",
+    "author": "Darthan",
+    "version": "0.7"
+  },
+  "ActionGroupsMod.dll": {
+    "name": "Action Groups Mod",
+    "description": "Adds KSP like Action Groups to SFS",
+    "author": "AstroTheRabbit",
+    "version": "1.3",
+    "dependencies": [
+      "CustomSaveData.dll"
+    ]
+  },
+  "CustomSaveData.dll": {
+    "name": "Custom Save Data",
+    "description": "A Mod that allows for the saving and loading of custom modded data to rockets and blueprints",
+    "author": "AstroTheRabbit",
+    "version": "1.0"
+  },
+  "SmartSASMod.dll": {
+    "name": "Smart SAS",
+    "description": "Adds Smart SAS that is able to lock onto Prograde, Retrograde, Surface and Target Nodes",
+    "author": "AstroTheRabbit",
+    "version": "1.7"
+  },
+  "InfoOverload.dll": {
+    "name": "Info Overload",
+    "description": "Shows you alot of information about whats going on in your world",
+    "author": "Fusion Space Industries",
+    "version": "1.6"
+  },
+  "Hyperwarp.dll": {
+    "name": "Hyperwarp",
+    "description": "Lets you go up to 1000x Physics Timewarp",
+    "author": "Starsubject",
+    "version": "1.0"
+  },
+  "RandomFailuresLegacy.dll": {
+    "name": "Random Failures Legacy",
+    "description": "Adds a random small chance of an engine failing to ignite, or having an in-flight failure.",
+    "author": "TheAlgorithm476",
+    "version": "1.0.0"
+  },
+  "ColoredOrbits.dll": {
+    "name": "Colored Orbits",
+    "version": "1.0",
+    "author": "Altiar",
+    "description": "Makes the orbits colored so you could see them better",
+    "dependencies": []
+  },
+  "DeltaV_Calculator.dll": {
+    "name": "Delta V Calculator",
+    "version": "1.0",
+    "author": "Altiar",
+    "description": "Shows your ingame Delta V",
+    "dependencies": []
+  },
+  "MultiLaunchpadMod.dll": {
+    "name": "Alternate Space Center support for custom solar systems",
+    "version": "1.1.1",
+    "author": "Darthan",
+    "description": "Allows for multiple space centers in a custom solar system",
+    "dependencies": []
+  },
+  "ColorResBar.dll": {
+    "name": "Colour Resources Bar",
+    "version": "1.0",
+    "author": "SFSGamer-bili",
+    "description": "Adds colour to the resource bars in game",
+    "dependencies": []
+  },
+  "WaterMod.dll": {
+    "name": "Water Mod",
+    "version": "2.0.0",
+    "author": "SFSGamer-bili",
+    "description": "Adds water to SFS",
+    "dependencies": []
+  },
+  "RichPresenceSFS.dll": {
+    "name": "Discord Rich Presence",
+    "version": "1.1",
+    "author": "N204",
+    "description": "Adds Discord rich presence to SFS",
+    "dependencies": []
+  },
+  "ALPACA.dll": {
+    "name": "ALPACA - Mod Installer",
+    "version": "1.1.0",
+    "author": "Starsubject",
+    "description": "It is a in-game mod installer for SFSMI",
+    "dependencies": []
+  },
+  "BlueprintImage.dll": {
+    "name": "Blueprint Image",
+    "version": "1.1",
+    "author": "SFSGamer-bili",
+    "description": "Allows you to export blueprints as images"
+  },
+  "Translation.dll": {
+    "name": "Translation Mod",
+    "version": "1.0.1",
+    "author": "SFSGamer-bili",
+    "description": "Allows you to use translations in SFS PC"
+  },
+  "BurnEditor.dll": {
+    "name": "Burn Editor",
+    "version": "1.0.3",
+    "author": "SFSGamer-bili",
+    "description": "Adds real time burn editing in SFS"
+  },
+  "SFSControl.dll": {
+    "name": "SFS APIs",
+    "version": "1.2",
+    "author": "SFSGamer-bili",
+    "description": "This mod adds an API to Spaceflight Simulator (SFS) that can be called by external scripts or programs."
+  },
+  "Enhanced.settings.dll": {
+    "name": "Enchanced Settings",
+    "version": "1.0.0",
+    "author": "SFSGamer-bili",
+    "description": "A simple mod that extends SFS's settings"
+  },
+  "GlidingHeatShields.dll": {
+    "name": "Gliding Heat Shields",
+    "version": "1.4",
+    "author": "Altiar",
+    "description": "Gives heat shields some lift capability"
+  }
+}
