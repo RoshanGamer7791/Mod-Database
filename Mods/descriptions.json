@@ -188,5 +188,17 @@
     "version": "1.0.3",
     "author": "NeptuneSky",
     "description": "This simple mod adds bindable zoom keys to Spaceflight Simulator. For trackpad users or people who otherwise can't zoom with a scroll wheel. Use Equals/Minus keys to zoom in and out, and use the Zero key to change the zoom speed."
+  },
+  "PartText.dll": {
+    "name": "Part Text",
+    "version": "1.1",
+    "author": "AstroTheRabbit",
+    "description": "A mod for the game Spaceflight Simulator that enables the editing of a part's JSON data, as well as some QoL settings"
+  },
+  "ForcefulFuelTanks.dll": {
+    "name": "ForcefulFuelTanks.dll",
+    "version": "1.0",
+    "author": "AstroTheRabbit",
+    "description": "A mod for the game Spaceflight Simulator that applies an explosive force on parts in the radius of destroyed fuel tanks."
   }
 }
