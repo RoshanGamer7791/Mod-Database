@@ -196,7 +196,7 @@
     "description": "A mod for the game Spaceflight Simulator that enables the editing of a part's JSON data, as well as some QoL settings"
   },
   "ForcefulFuelTanks.dll": {
-    "name": "ForcefulFuelTanks.dll",
+    "name": "Forceful Fuel Tanks",
     "version": "1.0",
     "author": "AstroTheRabbit",
     "description": "A mod for the game Spaceflight Simulator that applies an explosive force on parts in the radius of destroyed fuel tanks."
