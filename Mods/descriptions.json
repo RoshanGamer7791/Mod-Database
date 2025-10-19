@@ -158,5 +158,35 @@
     "version": "1.4",
     "author": "Altiar",
     "description": "Gives heat shields some lift capability"
+  },
+  "CustomMusic.dll": {
+    "name": "Custom Music",
+    "version" :"2.0.2",
+    "author": "NeptuneSky",
+    "description": "A mod that allows loading of custom music into Spaceflight Simulator."
+  },
+  "BuildGridUtils.dll": {
+    "name": "Build Screen Utilities",
+    "version": "1.1",
+    "author": "NeptuneSky",
+    "description": "This mod provides a simple options menu to change the build screen's grid, such as hiding the grid texture, changing the background color, and changing the size."
+  },
+  "Warpinator.dll": {
+    "name": "Warpinator",
+    "version": "0.8.3-alpha",
+    "author": "NeptuneSky",
+    "description": "An upgraded teleporter mod for Spaceflight Simulator."
+  },
+  "BuildSettings.dll": {
+    "name": "SFS Build Settings",
+    "version": "2.1.5.1",
+    "author": "NeptuneSky",
+    "description": "Adds Build settings to SFS such as snap to grid"
+  },
+  "SFSZoomKeys.dll": {
+    "name": "SFS Zoom Keys",
+    "version": "1.0.3",
+    "author": "NeptuneSky",
+    "description": "This simple mod adds bindable zoom keys to Spaceflight Simulator. For trackpad users or people who otherwise can't zoom with a scroll wheel. Use Equals/Minus keys to zoom in and out, and use the Zero key to change the zoom speed."
   }
 }
