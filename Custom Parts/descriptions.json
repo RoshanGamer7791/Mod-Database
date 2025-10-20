@@ -8,6 +8,13 @@
       "Electricity.pack"
     ]
   },
+  "MSDP_1.0.1.pack": {
+    "name": "Mac's Sea Dragon Pack",
+    "version": "1.0.1",
+    "author": "Mac33299",
+    "description": "Adds a sea dragon part pack to SFS",
+    "dependencies": []
+  },
   "KrazyThiefFalconModAlphaV0.5.1.2.pack": {
     "name": "Krazy Thief's Falcon 9 Pack",
     "version": "0.5.1.2 Alpha",
@@ -194,4 +201,5 @@
     "author": "NeptuneSky",
     "description": "Something I was surprised to not immediately see people making, heat shield tiles. Just little squares that can go on the side/bottom of rockets instead of lumpy dome-shaped heat shields. They don't make seams when you stack them next to each other and are also skinnable."
   }
+
 }
