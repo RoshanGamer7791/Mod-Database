@@ -200,5 +200,41 @@
     "version": "1.0",
     "author": "AstroTheRabbit",
     "description": "A mod for the game Spaceflight Simulator that applies an explosive force on parts in the radius of destroyed fuel tanks."
+  },
+  "Object.Search.dll": {
+    "name": "Object Search Mod",
+    "version": "1.0",
+    "author": "IDOMDOTCOM",
+    "description": "Allows the ability to search for objects (planets only at this point) and focus on them."
+  },
+  "ImageCoverMod.dll": {
+    "name": "Image Cover Mod",
+    "version": "1.0.1",
+    "author": "AstarLC",
+    "description": "A mod to load image into build scene."
+  },
+  "FrameRateLockMod.dll": {
+    "name": "Frame Rate Lock Mod",
+    "version": "1.0.1",
+    "author": "DarkSpace",
+    "description": "A lightweight mod that locks the game's frame rate and synchronizes physics timestep for consistent performance."
+  },
+  "ConsoleMOD.dll": {
+    "name": "More Commands in Console",
+    "version": "1.0.0",
+    "author": "DarkSpace",
+    "description": "ConsoleMOD is a utility mod for the SpaceFlight Simulator game that enhances the in-game console with additional commands for debugging and inspecting your rockets."
+  },
+  "Teleporter.dll": {
+    "name": "Teleporter Mod",
+    "version": "2.0",
+    "author": "N204",
+    "description": "Rocket teleporter mod for SFS by Osmo, ported to new ModLoader by N2O4."
+  },
+  "UpsideDown2025.dll": {
+    "name": "Spaceflight Simulator: Australia Edition (APRIL FOOLS 2025)",
+    "version": "April Fools Edition",
+    "author": "N204",
+    "description": "Finally. After 3 long years since its release on Steam (and 7 years after first release on mobile!), SFS is actually playable in Australia. All thanks to this great mod that I put together in a total of 2 hours."
   }
 }
