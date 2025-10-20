@@ -166,7 +166,32 @@
     "version": "1.0.0",
     "author": "Wurnace",
     "description": "Adds Lasers and Nukes to SFS"
+  },
+  "Hopiter's Nuclear Engines.pack": {
+    "name": "Hopiter's Nuclear Engines",
+    "version": "1.4",
+    "author": "Hopiter",
+    "description": "This mod adds a lot things about nuclear spaceships and others"
+  },
+  "New.horizons.-.BR-Apollo.v0.5.1.pack": {
+    "name": "New Horizons - Addon for BR-Apollo",
+    "version": "Beta 0.5.1",
+    "author": "Mac33299",
+    "description": "Addon for BR-Apollo | Adding cancelled-concept and more.",
+    "dependencies": [
+      "BR-Apollo.pack"
+    ]
+  },
+  "LiftingBodies.pack": {
+    "name": "Lifting body aerodynamics",
+    "version": "1.2",
+    "author": "Vapour Space",
+    "description": "An SFS mod that contains a wing part (just a fuel tank thats lighter and has less fuel) and a lifting body fuel tank."
+  },
+  "heatshieldtiles.pack": {
+    "name": "Heat Shield Tiles Pack",
+    "version": "",
+    "author": "NeptuneSky",
+    "description": "Something I was surprised to not immediately see people making, heat shield tiles. Just little squares that can go on the side/bottom of rockets instead of lumpy dome-shaped heat shields. They don't make seams when you stack them next to each other and are also skinnable."
   }
 }
-
-
