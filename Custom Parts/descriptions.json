@@ -204,7 +204,7 @@
   },
   "heatshieldtiles.pack": {
     "name": "Heat Shield Tiles Pack",
-    "version": "",
+    "version": "1.0",
     "author": "NeptuneSky",
     "description": "Something I was surprised to not immediately see people making, heat shield tiles. Just little squares that can go on the side/bottom of rockets instead of lumpy dome-shaped heat shields. They don't make seams when you stack them next to each other and are also skinnable."
   },
@@ -213,6 +213,24 @@
     "version": "1.1.1",
     "author": "Vinny",
     "description": "Hello, and welcome to my first custom parts! This mod adds engines!"
+  },
+  "alccargomod.pack": {
+    "name": "Cargo Parts Mod",
+    "version": "1.0",
+    "author": "AstarLC",
+    "description": "Its very self-explatory"
+  },
+  "BetterRCS.pack": {
+    "name": "Better RCS",
+    "version": "1.0",
+    "author": "VTPlayz",
+    "description": "Added new 1 way RCS that make the RCS more powerfull!!!"
+  },
+  "RDEP3.0.0.pack": {
+    "name": "Recoleto's Detailed Engines Pack (RDEP)",
+    "version": "3.0.0",
+    "author": "Recoleto",
+    "description": "Some cool engines for your builds"
   }
 }
 
