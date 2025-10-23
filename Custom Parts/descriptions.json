@@ -207,7 +207,12 @@
     "version": "",
     "author": "NeptuneSky",
     "description": "Something I was surprised to not immediately see people making, heat shield tiles. Just little squares that can go on the side/bottom of rockets instead of lumpy dome-shaped heat shields. They don't make seams when you stack them next to each other and are also skinnable."
+  },
+  "Hu-Vinny.s.Engine.Pack.pack": {
+    "name": "Vinnys Engine Pack",
+    "version": "1.1.1",
+    "author": "Vinny",
+    "description": "Hello, and welcome to my first custom parts! This mod adds engines!"
   }
-
 }
 
