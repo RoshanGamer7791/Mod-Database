@@ -15,9 +15,9 @@
     "description": "Adds a sea dragon part pack to SFS",
     "dependencies": []
   },
-  "KrazyThiefFalconModAlphaV0.5.1.2.pack": {
+  "KrazyThiefFalconModAlphaV0.5.1.3.pack": {
     "name": "Krazy Thief's Falcon 9 Pack",
-    "version": "0.5.1.2 Alpha",
+    "version": "0.5.1.3 Alpha",
     "author": "KrazyThief20543",
     "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions",
     "dependencies": []
