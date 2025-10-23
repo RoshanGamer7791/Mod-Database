@@ -28,5 +28,11 @@
     "description": "Adds metalic textures to SFS",
     "author": "Altiar",
     "version": "1.0"
+  },
+  "ClearTexturePack.zip": {
+    "name": "Clear Texture Pack",
+    "description": "I've created a small set of clear textures.",
+    "author": "Darthan",
+    "version": "1.0"
   }
 }
