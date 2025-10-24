@@ -231,6 +231,12 @@
     "version": "3.0.0",
     "author": "Recoleto",
     "description": "Some cool engines for your builds"
+  },
+  "MTRP_1.0.pack": {
+    "name": "Mac Tabletop Radio",
+    "version": "1.0",
+    "author": "Mac33299",
+    "description": "A radio in Spaceflight Simulator for reasons...."
   }
 }
 
