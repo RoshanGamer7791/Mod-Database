@@ -4,4 +4,3 @@ It is the database for it
 ## Contributers of the Mod database
 * Roshan
 * StarSubject (ssdcat)
-* AarohanTheAscender
