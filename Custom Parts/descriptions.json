@@ -244,5 +244,12 @@
     "author": "Invintex",
     "description": "This pack was made to complement vanilla Spaceflight Simulator gaming.",
     "dependencies": []
+  },
+  "BriocheForklift.pack": {
+    "name": "Brioche Forklift",
+    "version": "1.0.0",
+    "author": "Brioche",
+    "description": "Adds a Forklift to the game",
+    "dependencies": []
   }
 }
