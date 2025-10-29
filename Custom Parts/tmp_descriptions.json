@@ -1,0 +1,262 @@
+{
+  "moreparts.pack": {
+    "name": "More Parts",
+    "version": "4.0.3",
+    "author": "dani0105",
+    "description": "Adds colonisation, ARPANET, and mining to sfs",
+    "dependencies": [
+      "Electricity.pack"
+    ]
+  },
+  "MSDP_1.0.1.pack": {
+    "name": "Mac's Sea Dragon Pack",
+    "version": "1.0.1",
+    "author": "Mac33299",
+    "description": "Adds a sea dragon part pack to SFS",
+    "dependencies": []
+  },
+  "KrazyThiefFalconModAlphaV0.5.1.3.pack": {
+    "name": "Krazy Thief's Falcon 9 Pack",
+    "version": "0.5.1.3 Alpha",
+    "author": "KrazyThief20543",
+    "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions",
+    "dependencies": []
+  },
+  "Electricity.pack": {
+    "name": "Electricity Part Pack",
+    "version": "0.5",
+    "author": "N204",
+    "description": "Adds back the electricity system from 1.4",
+    "dependencies": []
+  },
+  "OTSStarBeta54.pack": {
+    "name": "Star Motors Pack",
+    "version": "Beta 54",
+    "author": "Lemniscate Biscuit",
+    "description": "Adds Star Motors to the game.",
+    "dependencies": []
+  },
+  "ACEv1.15.pack": {
+    "name": "Advanced Cryogenic Engines",
+    "version": "1.15",
+    "author": "Lemniscate Biscuit",
+    "description": "Adds many modern or advanced engines to the game.",
+    "dependencies": []
+  },
+  "RL10-Reduxv1.5.6.5.pack": {
+    "name": "RL Redux",
+    "version": "1.5.6.5",
+    "author": "Lemniscate Biscuit",
+    "description": "Adds the HUGE RL10 family to the game.",
+    "dependencies": []
+  },
+  "FPSv1.0.16.pack": {
+    "name": "Florine propulsion systems",
+    "version": "1.0.16",
+    "author": "Lemniscate Biscuit",
+    "description": "Adds florine engines to the game.",
+    "dependencies": []
+  },
+  "BR-Apollo.pack": {
+    "name": "BR-Apollo",
+    "version": "1.3.1",
+    "author": "Brioche",
+    "description": "Adds Apollo Program Parts",
+    "dependencies": []
+  },
+  "PicoSpace_Utility.pack": {
+    "name": "Picospace Industries Utility Mod",
+    "version": "0.5",
+    "author": "Picospace Industries",
+    "description": "A utility pack with a bunch of things like truss seperators and vertical landing gear",
+    "dependencies": [
+      "Electricity.pack"
+    ]
+  },
+  "DynamicEngineEffects.pack": {
+    "name": "Dynamic Engine Effects",
+    "version": "1.1",
+    "author": "jsudo",
+    "description": "Adds the stock engines with dynamic plumes",
+    "dependencies": []
+  },
+  "Kursed Engines.pack": {
+    "name": "Kursed Engines",
+    "version": "1.0",
+    "author": "AarohanTheAscender",
+    "description": "A bunch of kursed engines",
+    "dependencies": []
+  },
+  "Explorer's Ultimate Pack v0.6.pack": {
+    "name": "Explorer's Ultimate Pack",
+    "version": "0.6",
+    "author": "QMSP",
+    "description": "It is the explorers ultimate pack, which includes grid fins, electricty system (not compatible with N204 Electricty pack) and multipe engines and a drouge chute",
+    "dependencies": []
+  },
+  "New Parts Mod 2.4.pack": {
+    "name": "New Parts Mod",
+    "version": "2.4",
+    "author": "SFS BETTER",
+    "description": "Adds better engines and capsules",
+    "dependencies": []
+  },
+  "Vanguard Engine.pack": {
+    "name": "Vanguard Engine",
+    "version": "1.0",
+    "author": "FPE Fan",
+    "description": "Adds a powerful engine",
+    "dependencies": []
+  },
+  "Electron-Pack-1.1.pack": {
+    "name": "Electron Pack",
+    "version": "1.1",
+    "author": "SenchQ",
+    "description": "It adds the electron rocket parts",
+    "dependencies": []
+  },
+  "Stopgap Engines.pack": {
+    "name": "Stopgap Engines",
+    "version": "1.0",
+    "author": "J3 Mângo",
+    "description": "They fill in the gaps for the engines in the game",
+    "dependencies": []
+  },
+  "AEP.1.3.1.pack": {
+    "name": "Advanced Engine Pack",
+    "version": "1.3.1",
+    "author": "Orion",
+    "description": "Adds advanced engines for long journeys",
+    "dependencies": [
+      "Electricity.pack"
+    ]
+  },
+  "GWTM.Beta.pack": {
+    "name": "GWTM Starship Mod for SFS",
+    "version": "Beta",
+    "author": "Space_Crab",
+    "description": "Adds Starship parts",
+    "dependencies": []
+  },
+  "IHC_1.2.1.pack": {
+    "name": "Inflatable Heat Shield",
+    "version": "1.2.1",
+    "author": "Juan Angel B747",
+    "description": "Adds inflatable heat shields",
+    "dependencies": []
+  },
+  "KFS_1.1.0.1_Along_for_the_ride.pack": {
+    "name": "Kerbal Flight Simulator",
+    "version": "1.1.0.1",
+    "author": "Mac33299",
+    "description": "Adds KSP Parts into SFS",
+    "dependencies": [
+      "Electricity.pack"
+    ]
+  },
+  "Artemis.Program.pack": {
+    "name": "Artemis Program",
+    "version": "1.0.0 Beta",
+    "author": "leroxy2_0",
+    "description": "Adds Atermis Program parts"
+  },
+  "Titan.pack": {
+    "name": "Titan Rocket",
+    "version": "1.0.0",
+    "author": "leroxy2_0",
+    "description": "Adds Titan Rocket parts to SFS",
+    "dependencies": [
+      "Gemini.pack"
+    ]
+  },
+  "Gemini.pack": {
+    "name": "Gemini Program",
+    "version": "1.0.2",
+    "author": "leroxy2_0",
+    "description": "Adds Gemini Program Parts"
+  },
+  "lasers.pack": {
+    "name": "Lasers Mod",
+    "version": "1.0.0",
+    "author": "Wurnace",
+    "description": "Adds Lasers and Nukes to SFS"
+  },
+  "Hopiter's Nuclear Engines.pack": {
+    "name": "Hopiter's Nuclear Engines",
+    "version": "1.4",
+    "author": "Hopiter",
+    "description": "This mod adds a lot things about nuclear spaceships and others"
+  },
+  "New.horizons.-.BR-Apollo.v0.5.1.pack": {
+    "name": "New Horizons - Addon for BR-Apollo",
+    "version": "Beta 0.5.1",
+    "author": "Mac33299",
+    "description": "Addon for BR-Apollo | Adding cancelled-concept and more.",
+    "dependencies": [
+      "BR-Apollo.pack"
+    ]
+  },
+  "LiftingBodies.pack": {
+    "name": "Lifting body aerodynamics",
+    "version": "1.2",
+    "author": "Vapour Space",
+    "description": "An SFS mod that contains a wing part (just a fuel tank thats lighter and has less fuel) and a lifting body fuel tank."
+  },
+  "heatshieldtiles.pack": {
+    "name": "Heat Shield Tiles Pack",
+    "version": "1.0",
+    "author": "NeptuneSky",
+    "description": "Something I was surprised to not immediately see people making, heat shield tiles. Just little squares that can go on the side/bottom of rockets instead of lumpy dome-shaped heat shields. They don't make seams when you stack them next to each other and are also skinnable."
+  },
+  "Hu-Vinny.s.Engine.Pack.pack": {
+    "name": "Vinnys Engine Pack",
+    "version": "1.1.1",
+    "author": "Vinny",
+    "description": "Hello, and welcome to my first custom parts! This mod adds engines!"
+  },
+  "alccargomod.pack": {
+    "name": "Cargo Parts Mod",
+    "version": "1.0",
+    "author": "AstarLC",
+    "description": "Its very self-explatory"
+  },
+  "BetterRCS.pack": {
+    "name": "Better RCS",
+    "version": "1.0",
+    "author": "VTPlayz",
+    "description": "Added new 1 way RCS that make the RCS more powerfull!!!"
+  },
+  "RDEP3.0.0.pack": {
+    "name": "Recoleto's Detailed Engines Pack (RDEP)",
+    "version": "3.0.0",
+    "author": "Recoleto",
+    "description": "Some cool engines for your builds"
+  },
+  "MTRP_1.0.pack": {
+    "name": "Mac Tabletop Radio",
+    "version": "1.0",
+    "author": "Mac33299",
+    "description": "A radio in Spaceflight Simulator for reasons...."
+  },
+  "Vanilla+.pack": {
+    "name": "Vanilla+",
+    "version": "0.2.2",
+    "author": "Invintex",
+    "description": "This pack was made to complement vanilla Spaceflight Simulator gaming.",
+    "dependencies": []
+  },
+  "BriocheForklift.pack": {
+    "name": "Brioche Forklift",
+    "version": "1.0.0",
+    "author": "Brioche",
+    "description": "Adds a Forklift to the game",
+    "dependencies": []
+  },
+  "Xmas.pack": {
+    "name": "Xmas Pack",
+    "version": "1.0.0",
+    "author": "Recoleto",
+    "description": "It adds christmas parts to SFS",
+    "dependencies": []
+  }
+}
