@@ -102,13 +102,6 @@
     "description": "Adds colour to the resource bars in game",
     "dependencies": []
   },
-  "WaterMod.dll": {
-    "name": "Water Mod",
-    "version": "2.0.0",
-    "author": "SFSGamer-bili",
-    "description": "Adds water to SFS",
-    "dependencies": []
-  },
   "RichPresenceSFS.dll": {
     "name": "Discord Rich Presence",
     "version": "1.1",
