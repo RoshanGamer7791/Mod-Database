@@ -229,5 +229,11 @@
     "version": "April Fools Edition",
     "author": "N204",
     "description": "Finally. After 3 long years since its release on Steam (and 7 years after first release on mobile!), SFS is actually playable in Australia. All thanks to this great mod that I put together in a total of 2 hours."
+  },
+  "CustomChallengesMod.dll": {
+    "name": "Custom Challenges Mod",
+    "version": "1.0",
+    "author": "Darthan",
+    "description": "This mod adds support for custom challenges to custom solar systems."
   }
 }
