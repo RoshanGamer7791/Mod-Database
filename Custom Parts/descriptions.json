@@ -12,7 +12,14 @@
     "name": "Mac's Sea Dragon Pack",
     "version": "1.0.1",
     "author": "Mac33299",
-    "description": "Adds a sea dragon part pack to SFS",
+    "description": "Adds sea dragon parts pack to SFS",
+    "dependencies": []
+  },
+  "Teo.s.Engines.pack": {
+    "name": "Teo's Engines Pack",
+    "version": "1.0.0",
+    "author": "TeodoroLSB",
+    "description": "Adds new engines to SFS.",
     "dependencies": []
   },
   "KrazyThiefFalconModAlphaV0.5.1.3.pack": {
@@ -252,4 +259,5 @@
     "description": "Adds a Forklift to the game",
     "dependencies": []
   }
+
 }
