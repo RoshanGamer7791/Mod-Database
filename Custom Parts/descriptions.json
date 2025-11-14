@@ -1,5 +1,5 @@
 {
-  "moreparts.pack": {
+  "https://github.com/105-Code/MorePartsMod/releases/latest/download/moreparts.pack": {
     "name": "More Parts",
     "version": "4.0.3",
     "author": "dani0105",
@@ -23,7 +23,7 @@
       "part-pack"
     ]
   },
-  "Teo.s.Engines.pack": {
+  "https://github.com/TeodoroLSB/Teo-s-Engines/releases/latest/download/Teo.s.Engines.pack": {
     "name": "Teo's Engines Pack",
     "version": "1.0.0",
     "author": "TeodoroLSB",
@@ -121,7 +121,7 @@
       "utility"
     ]
   },
-  "DynamicEngineEffects.pack": {
+  "https://github.com/jsud0/Dynamic-Engines/releases/latest/download/DynamicEngineEffects.pack": {
     "name": "Dynamic Engine Effects",
     "version": "1.1",
     "author": "jsudo",
@@ -244,7 +244,7 @@
       "part-pack"
     ]
   },
-  "Artemis.Program.pack": {
+  "https://github.com/Cryptowave2-0/artemis_program_mod_part_for_sfs/releases/latest/download/Artemis.Program.Pack": {
     "name": "Artemis Program",
     "version": "1.0.0 Beta",
     "author": "leroxy2_0",
@@ -254,20 +254,20 @@
       "historical"
     ]
   },
-  "Titan.pack": {
+  "https://github.com/Cryptowave2-0/titan_mod_part_for_sfs/releases/latest/download/Titan.pack": {
     "name": "Titan Rocket",
     "version": "1.0.0",
     "author": "leroxy2_0",
     "description": "Adds Titan Rocket parts to SFS",
     "dependencies": [
-      "Gemini.pack"
+      "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack"
     ],
     "tags": [
       "part-pack",
       "historical"
     ]
   },
-  "Gemini.pack": {
+  "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack": {
     "name": "Gemini Program",
     "version": "1.0.2",
     "author": "leroxy2_0",
@@ -277,7 +277,7 @@
       "historical"
     ]
   },
-  "lasers.pack": {
+  "https://github.com/guunno/sfs-lasers/releases/latest/download/lasers.pack": {
     "name": "Lasers Mod",
     "version": "1.0.0",
     "author": "Wurnace",
@@ -311,7 +311,7 @@
       "historical"
     ]
   },
-  "LiftingBodies.pack": {
+  "https://github.com/VaporSpace2/SFSAerodynamicLift/releases/latest/download/LiftingBodies.pack": {
     "name": "Lifting body aerodynamics",
     "version": "1.2",
     "author": "Vapour Space",
@@ -331,7 +331,7 @@
       "heatshield"
     ]
   },
-  "Hu-Vinny.s.Engine.Pack.pack": {
+  "https://github.com/Hu-Vinny/Hu-Vinny-s-Engine-Mod/releases/latest/download/Hu-Vinny.s.Engine.Pack.pack": {
     "name": "Vinnys Engine Pack",
     "version": "1.1.1",
     "author": "Vinny",
@@ -351,7 +351,7 @@
       "cargo"
     ]
   },
-  "BetterRCS.pack": {
+  "https://github.com/VTplayz/Better-RCS/releases/latest/download/BetterRCS.pack": {
     "name": "Better RCS",
     "version": "1.0",
     "author": "VTPlayz",
@@ -381,7 +381,7 @@
       "misc"
     ]
   },
-  "Vanilla+.pack": {
+  "https://github.com/Invintex/Vanilla-Pack/releases/latest/download/Vanilla+.pack": {
     "name": "Vanilla+",
     "version": "0.2.2",
     "author": "Invintex",
@@ -400,6 +400,17 @@
     "tags": [
       "part-pack",
       "misc"
+    ]
+  },
+  "https://github.com/DinitrogenTetroxide/sfs-drogue-chutes/releases/latest/download/N204sDrougeChutes.pack": {
+    "name": "N204 Drouge Chutes",
+    "version": "1.1",
+    "author": "N204",
+    "description": "As the name suggests, this mod adds drogue chutes to the game.",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "utility"
     ]
   }
 }
