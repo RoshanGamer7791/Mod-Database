@@ -411,5 +411,29 @@
       "part-pack",
       "utility"
     ]
+  },
+  "https://github.com/sfsupgrades/Realistic-Docking-Ports-NASA/releases/latest/download/Realistic_Docking_Ports.pack": {
+    "name": "Realistic Docking Ports",
+    "version": "0.2.6",
+    "author": "SFS Upgrades Rocket",
+    "description": "Adds realistic NASA docking ports",
+    "dependencies": [],
+    "tags": [
+      "realism",
+      "utility"
+    ]
+  },
+  "https://github.com/sfsupgrades/starlink-dish-custom-part/releases/latest/download/starlink_dish.pack": {
+    "name": "Starlink Satitlite Dishes",
+    "version": "0.1.7",
+    "author": "SFS Upgrades Rocket",
+    "description": "Adds Starlink Dishes",
+    "dependencies": [
+      "Electricity.pack"
+    ],
+    "tags": [
+      "spacex",
+      "starlink"
+    ]
   }
 }  
