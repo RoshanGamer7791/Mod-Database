@@ -4,7 +4,7 @@
     "author": "dani0105",
     "description": "Adds colonisation, ARPANET, and mining to sfs",
     "dependencies": [
-      "Electricity.pack"
+      "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
     ],
     "tags": [
       "part-pack",
@@ -12,7 +12,7 @@
       "network"
     ]
   },
-  "MSDP_1.0.1.pack": {
+  "https://github.com/Mac33299/Mac-Sea-Dragon-Pack/releases/download/1.0.1/MSDP_1.0.1.pack": {
     "name": "Mac's Sea Dragon Pack",
     "version": "1.0.1",
     "author": "Mac33299",
@@ -33,8 +33,8 @@
       "engines"
     ]
   },
-  "KrazyThiefFalconModAlphaV0.5.1.3.pack": {
-    "name": "Krazy Thief's Falcon 9 Pack",
+  "https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/releases/download/v0.5.1.3/KrazyThiefFalconModAlphaV0.5.1.3.pack": {
+    "name": "Krazy Thief's Falcon 9 and Heavy Pack",
     "version": "0.5.1.3 Alpha",
     "author": "KrazyThief20543",
     "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions",
@@ -44,17 +44,18 @@
       "spacex"
     ]
   },
-  "Electricity.pack": {
+  "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack": {
     "name": "Electricity Part Pack",
     "version": "0.5",
     "author": "N204",
     "description": "Adds back the electricity system from 1.4",
     "dependencies": [],
     "tags": [
-      "part-pack"
+      "part-pack",
+      "Electricity"
     ]
   },
-  "OTSStarBeta54.pack": {
+  "https://github.com/LemnscateBiscuit/Off-The-Shelf---Star-Motors/releases/download/Beta54/OTSStarBeta54.pack": {
     "name": "Star Motors Pack",
     "version": "Beta 54",
     "author": "Lemniscate Biscuit",
@@ -64,7 +65,7 @@
       "part-pack"
     ]
   },
-  "ACEv1.15.pack": {
+  "https://github.com/LemnscateBiscuit/AdvancedChemicalEngines/releases/download/v1.2/ACEv1.15.pack": {
     "name": "Advanced Cryogenic Engines",
     "version": "1.15",
     "author": "Lemniscate Biscuit",
@@ -75,7 +76,7 @@
       "engines"
     ]
   },
-  "RL10-Reduxv1.5.6.5.pack": {
+  "https://github.com/LemnscateBiscuit/RL10-Redux/releases/download/v1.5.6/RL10-Reduxv1.5.6.5.pack": {
     "name": "RL Redux",
     "version": "1.5.6.5",
     "author": "Lemniscate Biscuit",
@@ -85,7 +86,7 @@
       "part-pack"
     ]
   },
-  "FPSv1.0.16.pack": {
+  "https://github.com/LemnscateBiscuit/FluorinePropulsionSystems/releases/download/Beta/FPSv1.0.16.zip": {
     "name": "Florine propulsion systems",
     "version": "1.0.16",
     "author": "Lemniscate Biscuit",
@@ -96,7 +97,7 @@
       "engines"
     ]
   },
-  "BR-Apollo.pack": {
+  "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack": {
     "name": "BR-Apollo",
     "version": "1.3.1",
     "author": "Brioche",
@@ -113,7 +114,7 @@
     "author": "Picospace Industries",
     "description": "A utility pack with a bunch of things like truss seperators and vertical landing gear",
     "dependencies": [
-      "Electricity.pack"
+      "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
     ],
     "tags": [
       "part-pack",
@@ -196,20 +197,20 @@
       "engines"
     ]
   },
-  "AEP.1.3.1.pack": {
+  "https://github.com/Orion-CSAT/AEP/releases/download/v1.3.1/AEP.1.3.1.pack": {
     "name": "Advanced Engine Pack",
     "version": "1.3.1",
     "author": "Orion",
     "description": "Adds advanced engines for long journeys",
     "dependencies": [
-      "Electricity.pack"
+      "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
     ],
     "tags": [
       "part-pack",
       "engines"
     ]
   },
-  "GWTM.Beta.pack": {
+  "https://github.com/space-crab/GWTM-SFS-Starship-Mod/releases/download/GWTM/GWTM.Beta.pack": {
     "name": "GWTM Starship Mod for SFS",
     "version": "Beta",
     "author": "Space_Crab",
@@ -220,7 +221,7 @@
       "spacex"
     ]
   },
-  "IHC_1.2.1.pack": {
+  "https://github.com/juan-angel-b747/inflatable-heat-shield/releases/download/correction/IHC_1.2.1.pack": {
     "name": "Inflatable Heat Shield",
     "version": "1.2.1",
     "author": "Juan Angel B747",
@@ -231,16 +232,17 @@
       "heatshield"
     ]
   },
-  "KFS_1.1.0.1_Along_for_the_ride.pack": {
+  "https://github.com/Mac33299/Kerbal-Flight-Simulator/releases/download/1.1.0.1/KFS_1.1.0.1_Along_for_the_ride.pack": {
     "name": "Kerbal Flight Simulator",
     "version": "1.1.0.1",
     "author": "Mac33299",
     "description": "Adds KSP Parts into SFS",
     "dependencies": [
-      "Electricity.pack"
+      "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
     ],
     "tags": [
-      "part-pack"
+      "part-pack",
+      "kerbal"
     ]
   },
   "https://github.com/Cryptowave2-0/artemis_program_mod_part_for_sfs/releases/latest/download/Artemis.Program.Pack": {
@@ -297,13 +299,13 @@
       "nuclear"
     ]
   },
-  "New.horizons.-.BR-Apollo.v0.5.1.pack": {
+  "https://github.com/Mac33299/New-Horizons/releases/download/0.5.1/New.horizons.-.BR-Apollo.v0.5.1.pack": {
     "name": "New Horizons - Addon for BR-Apollo",
     "version": "Beta 0.5.1",
     "author": "Mac33299",
     "description": "Addon for BR-Apollo | Adding cancelled-concept and more.",
     "dependencies": [
-      "BR-Apollo.pack"
+      "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack"
     ],
     "tags": [
       "part-pack",
@@ -370,7 +372,7 @@
       "engines"
     ]
   },
-  "MTRP_1.0.pack": {
+  "https://github.com/Mac33299/Mac-Tabletop-Radio/releases/download/1.0/MTRP_1.0.pack": {
     "name": "Mac Tabletop Radio",
     "version": "1.0",
     "author": "Mac33299",
@@ -429,7 +431,7 @@
     "author": "SFS Upgrades Rocket",
     "description": "Adds Starlink Dishes",
     "dependencies": [
-      "Electricity.pack"
+      "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
     ],
     "tags": [
       "spacex",
