@@ -1,5 +1,4 @@
-{
-  "https://github.com/105-Code/MorePartsMod/releases/latest/download/moreparts.pack": {
+{  "https://github.com/105-Code/MorePartsMod/releases/latest/download/moreparts.pack": {
     "name": "More Parts",
     "version": "4.0.3",
     "author": "dani0105",
@@ -402,7 +401,7 @@
       "misc"
     ]
   },
-  "https://github.com/DinitrogenTetroxide/sfs-drogue-chutes/releases/latest/download/N204sDrougeChutes.pack": {
+  "https://github.com/DinitrogenTetroxide/sfs-drogue-chutes/releases/latest/download/N2O4sDrogueChutes.pack": {
     "name": "N204 Drouge Chutes",
     "version": "1.1",
     "author": "N204",
@@ -413,4 +412,4 @@
       "utility"
     ]
   }
-}
+}  
