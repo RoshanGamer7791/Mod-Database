@@ -1,4 +1,5 @@
-{  "https://github.com/105-Code/MorePartsMod/releases/latest/download/moreparts.pack": {
+{  
+    "https://github.com/105-Code/MorePartsMod/releases/latest/download/moreparts.pack": {
     "name": "More Parts",
     "version": "4.0.3",
     "author": "dani0105",
@@ -12,6 +13,18 @@
       "network"
     ]
   },
+  "https://github.com/TeodoroLSB/Teo-s-Launchtowers/releases/download/0.11/Teo.s.Launchtowers.pack": {
+    "name": "Teo's Launch towers",
+    "version": "0.11",
+    "author": "TeodoroLSB",
+    "description": "Adds launchpad parts pack to SFS",
+    "dependencies": [],
+    "tags": [
+      "part-pack"
+      "misc"
+      "launchpads"
+    ]
+  },    
   "https://github.com/Mac33299/Mac-Sea-Dragon-Pack/releases/download/1.0.1/MSDP_1.0.1.pack": {
     "name": "Mac's Sea Dragon Pack",
     "version": "1.0.1",
@@ -518,4 +531,5 @@
       "advanced"
     ]
   }
+
 }  
