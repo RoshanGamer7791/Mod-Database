@@ -247,7 +247,7 @@
     "author": "N204",
     "description": "Rocket teleporter mod for SFS by Osmo, ported to new ModLoader by N2O4."
   },
-  "https://jmnet.one/sfs/forum/index.php?attachments/upsidedown2025-dll.133340/": {
+  "UpsideDown2025.dll": {
     "name": "Spaceflight Simulator: Australia Edition (APRIL FOOLS 2025)",
     "version": "April Fools Edition",
     "author": "N204",
@@ -258,5 +258,11 @@
     "version": "1.0",
     "author": "Darthan",
     "description": "This mod adds support for custom challenges to custom solar systems."
+  },
+  "ShowAllOrbitLines.dll": {
+    "name": "Show All Orbit Lines",
+    "version": "1.0",
+    "author": "SFSGamer-bili",
+    "description": "A simple mod that shows all orbit lines"
   }
 }
