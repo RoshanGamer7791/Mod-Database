@@ -411,7 +411,8 @@
     "dependencies": [],
     "tags": [
       "part-pack",
-      "utility"
+      "utility",
+      "parachutes"
     ]
   },
   "https://github.com/sfsupgrades/Realistic-Docking-Ports-NASA/releases/latest/download/Realistic_Docking_Ports.pack": {
@@ -436,6 +437,85 @@
     "tags": [
       "spacex",
       "starlink"
+    ]
+  },
+  "https://github.com/Dahzito/Dahzito-Custom-Engines-v0.6/releases/download/v0.6.1-zTalls.2/Dahzito.Custom.Engines.0.6.zTalls.Custom.2.pack": {
+    "name": "Dahzito's Custom Engines",
+    "version": "0.6.1",
+    "author": "Dahzito",
+    "description": "Basic mod that adds for now 12 engines to the SFS game. This mod adds for now a decent variety of engines into the game that can offer an interesting alternative to the already well known Vanilla engines, this mod can include engines that can extend, from some simple engines for some missions were you would need another type of engine, to an entire version of an Dahzito version of the AEP mod made by Orion (also the suggestion of this was made by Orion) and some Soviet-tech rocket engines.",
+    "dependencies": [],
+    "tags": [
+      "engines",
+      "part-pack"
+    ]
+  },
+  "https://github.com/Lurin-Lud/SFS-Lurin-New-Fuels/releases/latest/download/LurinsNewFuels.pack": {
+    "name": "Lurins New Fuels",
+    "version": "1.0.0",
+    "author": "Ludwig",
+    "description": "Test new propellants for your rockets",
+    "dependencies": [],
+    "tags": [
+      "fuels",
+      "part-pack"
+    ]
+  },
+  "https://github.com/Lurin-Lud/SFS-Lurins-Things/releases/latest/download/LurinsThings.pack": {
+    "name": "Lurin's Things",
+    "version": "0.3.0",
+    "author": "Ludwig",
+    "description": "Parts I do that might be useful to you",
+    "dependencies": [],
+    "tags": [
+      "part-pack"
+    ]
+  },
+  "https://github.com/TechSkySpace/Better-Parachutes-For-SFS/releases/latest/download/Realistic.Parachutes.pack": {
+    "name": "Better Parachutes by TSS",
+    "version": "1.2.1",
+    "author": "TechSky_Space",
+    "description": "In this pack, I added more realistic and practical parachutes with their corresponding effects!",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "parachutes",
+      "utility"
+    ]
+  },
+  "https://github.com/Prime252/Prime-Aerospace-Engines/releases/download/1.0/PAE.V1.0.pack": {
+    "name": "Prime Aerospace Engines",
+    "version": "1.0",
+    "author": "Prime Aerospace",
+    "description": "This mod contains 9 engines of different shapes, sizes, plumes, etc.",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "engines"
+    ]
+  },
+  "https://github.com/Prime252/Prime-Aerospace-Cursed-Engines/releases/download/1.0.1/PACE.V1.0.pack": {
+    "name": "Prime Aerospace Cursed Engines",
+    "version": "1.0.1",
+    "author": "Prime Aerospace",
+    "description": "This mod contains 4 engines and 1 booster of questionable quality",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "engines",
+      "cursed"
+    ]
+  },
+  "https://github.com/Prime252/Prime-Aerospace-Advanced-Engines-Pack/releases/download/1.0/PAAEP.V1.0.pack": {
+    "name": "Prime Aerospace Advanced Engines",
+    "version": "1.0",
+    "author": "Prime Aerospace",
+    "description": "Adds 4 Advanced Engines",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "engines",
+      "advanced"
     ]
   }
 }  
