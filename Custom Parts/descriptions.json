@@ -20,8 +20,8 @@
     "description": "Adds launchpad parts pack to SFS",
     "dependencies": [],
     "tags": [
-      "part-pack"
-      "misc"
+      "part-pack",
+      "misc",
       "launchpads"
     ]
   },    
@@ -533,3 +533,4 @@
   }
 
 }  
+
