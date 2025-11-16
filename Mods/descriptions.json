@@ -132,9 +132,9 @@
     "description": "Adds Discord rich presence to SFS",
     "dependencies": []
   },
-  "https://github.com/ssdcat/ALPACA/releases/latest/ALPACA.dll": {
+  "https://github.com/ssdcat/ALPACA/releases/download/Newupdates/ALPACA.dll": {
     "name": "ALPACA - Mod Installer",
-    "version": "1.2",
+    "version": "1.3",
     "author": "Starsubject",
     "description": "It is a in-game mod installer for SFSMI",
     "dependencies": []
@@ -265,4 +265,8 @@
     "author": "SFSGamer-bili",
     "description": "A simple mod that shows all orbit lines"
   }
+
 }
+
+
+
