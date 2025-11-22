@@ -264,8 +264,13 @@
     "version": "1.0",
     "author": "SFSGamer-bili",
     "description": "A simple mod that shows all orbit lines"
+  },
+  "https://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/latest/download/StagesExpanded.dll": {
+    "name": "Stages Expanded",
+    "version": "1.1",
+    "author": "AstroTheRabbit",
+    "description": "Stages Expanded is a mod which calculates and displays various stats for your rockets' stages. Use this mod to plan out missions, create more efficient rockets, and more!"
   }
-
 }
 
 
