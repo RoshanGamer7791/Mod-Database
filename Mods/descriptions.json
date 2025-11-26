@@ -136,7 +136,7 @@
     "name": "ALPACA - Mod Installer",
     "version": "1.3",
     "author": "Starsubject",
-    "description": "It is a in-game mod installer for SFSMI",
+    "description": "It is a in-game mod installer including almost every mod posted on the forum. All you have to do is click install on a button and it instantly installs it without delay.",
     "dependencies": []
   },
   "https://github.com/SFSPlayer-sys/BlueprintImage/releases/latest/download/BlueprintImage.dll": {
@@ -272,6 +272,7 @@
     "description": "Stages Expanded is a mod which calculates and displays various stats for your rockets' stages. Use this mod to plan out missions, create more efficient rockets, and more!"
   }
 }
+
 
 
 
