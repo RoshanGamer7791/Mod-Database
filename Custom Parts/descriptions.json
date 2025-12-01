@@ -199,9 +199,9 @@
       "part-pack"
     ]
   },
-  "Stopgap Engines.pack": {
+  "SGE V1.01.pack": {
     "name": "Stopgap Engines",
-    "version": "1.0",
+    "version": "1.01",
     "author": "J3 Mângo",
     "description": "They fill in the gaps for the engines in the game",
     "dependencies": [],
@@ -533,4 +533,5 @@
   }
 
 }  
+
 
