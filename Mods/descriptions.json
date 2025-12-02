@@ -83,7 +83,7 @@
     "name": "Info Overload",
     "description": "Shows you alot of information about whats going on in your world",
     "author": "Fusion Space Industries",
-    "version": "1.6"
+    "version": "2.0"
   },
   "Hyperwarp.dll": {
     "name": "Hyperwarp",
@@ -272,6 +272,7 @@
     "description": "Stages Expanded is a mod which calculates and displays various stats for your rockets' stages. Use this mod to plan out missions, create more efficient rockets, and more!"
   }
 }
+
 
 
 
