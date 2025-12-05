@@ -13,6 +13,17 @@
       "network"
     ]
   },
+  "https://github.com/RoshanGamer7791/RSAParts/releases/latest/download/RSAParts.pack": {
+    "name": "More Parts",
+    "version": "1.0.0",
+    "author": "roshan",
+    "description": "Adds jet and steam engines to the game.",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "engines"
+    ]
+  },
   "https://github.com/TeodoroLSB/Teo-s-Launchtowers/releases/download/0.11/Teo.s.Launchtowers.pack": {
     "name": "Teo's Launch towers",
     "version": "0.11",
@@ -533,5 +544,6 @@
   }
 
 }  
+
 
 
