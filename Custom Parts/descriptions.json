@@ -14,7 +14,7 @@
     ]
   },
   "https://github.com/RoshanGamer7791/RSAParts/releases/latest/download/RSAParts.pack": {
-    "name": "More Parts",
+    "name": "RSA Parts",
     "version": "1.0.0",
     "author": "roshan",
     "description": "Adds jet and steam engines to the game.",
@@ -544,6 +544,7 @@
   }
 
 }  
+
 
 
 
