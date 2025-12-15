@@ -541,8 +541,18 @@
       "engines",
       "advanced"
     ]
+  },
+  "https://github.com/Prime252/Prime-Aerospace-Starships/releases/download/4.0/Phoenix.PAS.V4.0.pack": {
+    "name": "Prime Aerospace SpaceX",
+    "version": "4.0",
+    "author": "Prime Aerospace",
+    "description": "PAS adds almost all SpaceX rockets including Starships and Falcons",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "spacex"
+    ]
   }
-
 }  
 
 
