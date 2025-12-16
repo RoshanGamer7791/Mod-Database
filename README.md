@@ -1,4 +1,4 @@
-This repository is for my Mod Installer  
+This repository is for SFSMI (SFS Mod Installer) , ALPACA (In-game Mod Installer) and PPI (Planet Pack Installer) 
 It is the database for it
 
 ## Contributers of the Mod database
