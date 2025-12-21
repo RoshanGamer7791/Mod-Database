@@ -117,6 +117,9 @@
     "author": "Darthan",
     "description": "Allows for multiple space centers in a custom solar system",
     "dependencies": []
+    "tags:": [
+      "Utility"
+    ]
   },
   "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll": {
     "name": "Colour Resources Bar",
@@ -272,6 +275,7 @@
     "description": "Stages Expanded is a mod which calculates and displays various stats for your rockets' stages. Use this mod to plan out missions, create more efficient rockets, and more!"
   }
 }
+
 
 
 
