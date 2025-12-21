@@ -14,7 +14,7 @@
     "description": "Replaces the stock navigation system with a more elaborated one",
     "author": "Altiar",
     "version": "1.4.2",
-    "tags:": [
+    "tags": [
       "Navigation",
       "Utility"
     ]
@@ -116,8 +116,8 @@
     "version": "1.1.1",
     "author": "Darthan",
     "description": "Allows for multiple space centers in a custom solar system",
-    "dependencies": []
-    "tags:": [
+    "dependencies": [],
+    "tags": [
       "Utility"
     ]
   },
@@ -275,6 +275,7 @@
     "description": "Stages Expanded is a mod which calculates and displays various stats for your rockets' stages. Use this mod to plan out missions, create more efficient rockets, and more!"
   }
 }
+
 
 
 
