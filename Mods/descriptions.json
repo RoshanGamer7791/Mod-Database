@@ -18,8 +18,11 @@
     "author": "Altiar",
     "version": "1.4.2",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "tags": [
 =======
+=======
+>>>>>>> Stashed changes
     "platform": "PC",
     "forum": "https://jmnet.one/sfs/forum/index.php?threads/anais-advanced-navigation-innovative-system.11987/",
     "source": "https://github.com/Kaskouy/ANAIS",
@@ -144,9 +147,13 @@
     "description": "Allows for multiple space centers in a custom solar system",
     "dependencies": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "tags": [
       "Utility"
     ]
+=======
+    "platform": "PC"
+>>>>>>> Stashed changes
 =======
     "platform": "PC"
 >>>>>>> Stashed changes
