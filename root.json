@@ -1,0 +1,13 @@
+{
+  "comment": "This is just a stub, this file dosen't do anything [yet] but will be used as a template for future 1.4 version.",
+  "versions": {
+    "1.4": {
+      "url": "https://example.com/1.4.json",
+      "comment": "Version 1.4"
+    },
+    "default": {
+      "url": "https://example.com/default.json",
+      "comment": "If it fails to load a version"
+    }
+  }
+}
