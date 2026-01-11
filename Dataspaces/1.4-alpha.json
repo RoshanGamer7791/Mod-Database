@@ -1,0 +1,77 @@
+{
+  "comments": {
+    "notes": "I'm purposely trying to make this near turing complete or as close to it as possible so that I don't need to update ALPACA anymore, especially since I resetted my computer and lost all the C# files making it harder to make stuff again",
+    "aboutmainpointer": "This returns a ID's siblings. <versionvalue.value> would look for the ID 'versionvalue' and then look at its sibling, 'value' and return 'value's value",
+    "aboutvar-return": "This returns a function's variable's value based on name. [varname] would return the parameter varname",
+    "about-cx-cy": "cx and cy stand for Childed X and Childed Y, if UI's parent's X and Y are at X 300, and Y 50 then having a CX and CY of 0 would still have it at the x 300, and 50 but having a CX of 20 would make it x 320, and y 50",
+    "about-ax-ay": "ax and ay stand for absolute x and y, whatever you put makes it go at that position."
+  },
+  "root": {
+    "strings": {
+      "version": {
+        "value": 5,
+        "id": "versionvalue"
+      }
+    },
+    "numbers": {
+      "example": 5
+    }
+  },
+  "code": {
+    "getVariable": {
+      "constructor": {
+        "config": {
+          "supportParameters": true,
+          "includeParentheses": true,
+          "returnData": true,
+          "executeCSHARP": false
+        },
+        "parameters": {
+          "varname": "String"
+        },
+        "code": {
+          "return": "<[varname].value>"
+        }
+      }
+    }
+  },
+  "gui": {
+    "definitions": {
+      "window": {
+        "ax": 0,
+        "ay": 0,
+        "draggable": true,
+        "width": 480,
+        "height": 320
+      },
+      "hightopbar": {
+        "cx": 0,
+        "cy": 0,
+        "width": "Max-X",
+        "height": 50
+      }
+    },
+    "content": {
+      "window": {
+        "type": "Empty",
+        "style": {
+          "background-color": "Black",
+          "opacity": 0.5,
+          "border-radius": 50
+        },
+        "children": {
+          "hightopbar": {
+            "type": "Empty",
+            "style": {
+              "background-color": "Black",
+              "opacity": 0.5,
+              "border-radius": 50
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
