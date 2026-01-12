@@ -1,13 +1,16 @@
 {
   "comment": "This is just a stub, this file dosen't do anything [yet] but will be used as a template for future 1.4 version.",
+  "comment": "ID is a number for a version that is used to see if your on a older version. If your on a version with the ID 100 but another version exists with the ID 101 you would be prompted to update to that version.",
   "versions": {
     "1.4": {
       "url": "https://example.com/1.4.json",
-      "comment": "Version 1.4"
+      "comment": "Version 1.4",
+      "id": 100
     },
     "default": {
       "url": "https://example.com/default.json",
-      "comment": "If it fails to load a version"
+      "comment": "If it fails to load a version",
+      "id": -99999
     }
   }
 }
