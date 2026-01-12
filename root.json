@@ -1,6 +1,11 @@
 {
   "comment": "This is just a stub, this file dosen't do anything [yet] but will be used as a template for future 1.4 version.",
   "comment": "ID is a number for a version that is used to see if your on a older version. If your on a version with the ID 100 but another version exists with the ID 101 you would be prompted to update to that version.",
+  "developerMode": {
+    "code": 99887766,
+    "comment": "You would manually type 99887766 in order to load the developer mode.",
+    "useVersion": "developer"
+  },
   "versions": {
     "1.4": {
       "url": "https://example.com/1.4.json",
@@ -11,6 +16,11 @@
       "url": "https://example.com/default.json",
       "comment": "If it fails to load a version",
       "id": -99999
+    },
+    "developer": {
+      "url": "https://example.com/developer.json",
+      "comment": "Developer version for devs of this database and other devs.",
+      "id": 99999
     }
   }
 }
