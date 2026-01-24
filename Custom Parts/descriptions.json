@@ -24,6 +24,17 @@
       "engines"
     ]
   },
+  "https://github.com/ssdcatlabs/kiwi/releases/latest/download/KiwiEngines.pack.zip": {
+    "name": "Kiwi Main Engines",
+    "version": "1.0.1",
+    "author": "ssdcat",
+    "description": "Adds a bunch of engines to the game.",
+    "dependencies": [],
+    "tags": [
+      "part-pack",
+      "engines"
+    ]
+  },
   "https://github.com/TeodoroLSB/Teo-s-Launchtowers/releases/download/0.11/Teo.s.Launchtowers.pack": {
     "name": "Teo's Launch towers",
     "version": "0.11",
@@ -554,6 +565,7 @@
     ]
   }
 }  
+
 
 
 
