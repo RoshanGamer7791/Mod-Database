@@ -9,3 +9,9 @@ Make sure to ping us if you use this for your own project
 ## Contributers of the Mod database
 * Roshan
 * ssdcat
+
+----------------------------------------
+## TODO
+* Attempt to make the mod installer less static.
+* Catch up and add more newer mods.
+* Add new features
