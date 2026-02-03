@@ -17,17 +17,11 @@
     "description": "Replaces the stock navigation system with a more elaborated one",
     "author": "Altiar",
     "version": "1.4.2",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "tags": [
-=======
-=======
->>>>>>> Stashed changes
     "platform": "PC",
     "forum": "https://jmnet.one/sfs/forum/index.php?threads/anais-advanced-navigation-innovative-system.11987/",
     "source": "https://github.com/Kaskouy/ANAIS",
     "tags:": [
->>>>>>> Stashed changes
       "Navigation",
       "Utility"
     ]
@@ -146,17 +140,11 @@
     "author": "Darthan",
     "description": "Allows for multiple space centers in a custom solar system",
     "dependencies": [],
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "tags": [
       "Utility"
     ]
-=======
     "platform": "PC"
->>>>>>> Stashed changes
-=======
     "platform": "PC"
->>>>>>> Stashed changes
   },
   "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll": {
     "name": "Colour Resources Bar",
@@ -335,9 +323,6 @@
     "description": "A mod for the game Spaceflight Simulator that allows the player to extend the physics load/unload distance."
   }
 }
-
-
-
 
 
 
