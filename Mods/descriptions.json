@@ -17,11 +17,10 @@
     "description": "Replaces the stock navigation system with a more elaborated one",
     "author": "Altiar",
     "version": "1.4.2",
-    "tags": [
     "platform": "PC",
     "forum": "https://jmnet.one/sfs/forum/index.php?threads/anais-advanced-navigation-innovative-system.11987/",
     "source": "https://github.com/Kaskouy/ANAIS",
-    "tags:": [
+    "tags": [
       "Navigation",
       "Utility"
     ]
@@ -73,7 +72,7 @@
       "Utility"
     ]
   },
-  "https://github.com/Astro heRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll": {
+  "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll": {
     "name": "Action Groups Mod",
     "description": "Adds KSP like Action Groups to SFS",
     "author": "Astro The Rabbit",
@@ -142,8 +141,7 @@
     "dependencies": [],
     "tags": [
       "Utility"
-    ]
-    "platform": "PC"
+    ],
     "platform": "PC"
   },
   "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll": {
@@ -214,7 +212,7 @@
   },
   "https://github.com/Neptune-Sky/SFSCustomMusic/releases/latest/download/CustomMusic.dll": {
     "name": "Custom Music",
-    "version" :"2.0.2",
+    "version": "2.0.2",
     "author": "NeptuneSky",
     "description": "A mod that allows loading of custom music into Spaceflight Simulator.",
     "platform": "PC"
@@ -323,8 +321,3 @@
     "description": "A mod for the game Spaceflight Simulator that allows the player to extend the physics load/unload distance."
   }
 }
-
-
-
-
-
