@@ -24,7 +24,7 @@
       "engines"
     ]
   },
-  "https://github.com/ssdcatlabs/kiwi/releases/latest/download/KiwiEngines.pack.zip": {
+  "https://github.com/ssdcatlabs/kiwi/releases/latest/download/KiwiEngines.pack": {
     "name": "Kiwi Main Engines",
     "version": "1.0.1",
     "author": "ssdcat",
@@ -565,3 +565,4 @@
     ]
   }
 }
+
